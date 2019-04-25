@@ -1,7 +1,7 @@
 # vue-cropper-new
 
 这是效果截图
-![Image text](https://raw.githubusercontent.com/521707/vue-cropper-new/00.png)
+![Image text](https://github.com/521707/vue-cropper-new/blob/master/00.png?raw=true)
 
 这是使用方法简介
 
