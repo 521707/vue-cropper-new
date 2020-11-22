@@ -7,9 +7,6 @@
 
 ![Image text](https://raw.githubusercontent.com/521707/vue-cropper-new/master/1.png)
 
-觉得好用的欢迎打赏啊啊哈哈哈哈哈
-![Imagetext](https://github.com/521707/vue-cropper-new/blob/master/5DDA48A88362CBBD3A8C7E1C0086DD6C.jpg?raw=true)
-
 <table style="text-align: center">
   <thead>
     <tr>
